@@ -1,0 +1,69 @@
+D:\Programming\C#\CollegeProjects\ExamCSharpTask\ExamCSharpTask\bin\Debug\ExamCSharpTask.exe.config
+D:\Programming\C#\CollegeProjects\ExamCSharpTask\ExamCSharpTask\bin\Debug\ExamCSharpTask.exe
+D:\Programming\C#\CollegeProjects\ExamCSharpTask\ExamCSharpTask\bin\Debug\ExamCSharpTask.pdb
+D:\Programming\C#\CollegeProjects\ExamCSharpTask\ExamCSharpTask\obj\Debug\ExamCSharpTask.csproj.AssemblyReference.cache
+D:\Programming\C#\CollegeProjects\ExamCSharpTask\ExamCSharpTask\obj\Debug\MainWindow.g.cs
+D:\Programming\C#\CollegeProjects\ExamCSharpTask\ExamCSharpTask\obj\Debug\Pages\CategoriesPage.g.cs
+D:\Programming\C#\CollegeProjects\ExamCSharpTask\ExamCSharpTask\obj\Debug\Pages\ChooserPage.g.cs
+D:\Programming\C#\CollegeProjects\ExamCSharpTask\ExamCSharpTask\obj\Debug\Pages\GoodsPage.g.cs
+D:\Programming\C#\CollegeProjects\ExamCSharpTask\ExamCSharpTask\obj\Debug\App.g.cs
+D:\Programming\C#\CollegeProjects\ExamCSharpTask\ExamCSharpTask\obj\Debug\ExamCSharpTask_MarkupCompile.cache
+D:\Programming\C#\CollegeProjects\ExamCSharpTask\ExamCSharpTask\obj\Debug\ExamCSharpTask_MarkupCompile.lref
+D:\Programming\C#\CollegeProjects\ExamCSharpTask\ExamCSharpTask\obj\Debug\App.baml
+D:\Programming\C#\CollegeProjects\ExamCSharpTask\ExamCSharpTask\obj\Debug\MainWindow.baml
+D:\Programming\C#\CollegeProjects\ExamCSharpTask\ExamCSharpTask\obj\Debug\Pages\CategoriesPage.baml
+D:\Programming\C#\CollegeProjects\ExamCSharpTask\ExamCSharpTask\obj\Debug\Pages\ChooserPage.baml
+D:\Programming\C#\CollegeProjects\ExamCSharpTask\ExamCSharpTask\obj\Debug\Pages\GoodsPage.baml
+D:\Programming\C#\CollegeProjects\ExamCSharpTask\ExamCSharpTask\obj\Debug\ExamCSharpTask.g.resources
+D:\Programming\C#\CollegeProjects\ExamCSharpTask\ExamCSharpTask\obj\Debug\ExamCSharpTask.Properties.Resources.resources
+D:\Programming\C#\CollegeProjects\ExamCSharpTask\ExamCSharpTask\obj\Debug\ExamCSharpTask.csproj.GenerateResource.cache
+D:\Programming\C#\CollegeProjects\ExamCSharpTask\ExamCSharpTask\obj\Debug\ExamCSharpTask.csproj.CoreCompileInputs.cache
+D:\Programming\C#\CollegeProjects\ExamCSharpTask\ExamCSharpTask\obj\Debug\ExamCSharpTask.exe
+D:\Programming\C#\CollegeProjects\ExamCSharpTask\ExamCSharpTask\obj\Debug\ExamCSharpTask.pdb
+D:\Programming\C#\CollegeProjects\ExamCSharpTask\ExamCSharpTask\obj\Debug\Pages\AddGoodsPage.g.cs
+D:\Programming\C#\CollegeProjects\ExamCSharpTask\ExamCSharpTask\obj\Debug\Pages\AddGoodsPage.baml
+D:\Programming\C#\CollegeProjects\ExamCSharpTask\ExamCSharpTask\bin\Debug\Newtonsoft.Json.dll
+D:\Programming\C#\CollegeProjects\ExamCSharpTask\ExamCSharpTask\obj\Debug\ExamCSharpTask.csproj.CopyComplete
+D:\Programming\C#\CollegeProjects\ExamCSharpTask\ExamCSharpTask\bin\Debug\System.Text.Encodings.Web.dll
+D:\Programming\C#\CollegeProjects\ExamCSharpTask\ExamCSharpTask\bin\Debug\System.Text.Json.dll
+D:\Programming\C#\CollegeProjects\ExamCSharpTask\ExamCSharpTask\bin\Debug\System.Memory.dll
+D:\Programming\C#\CollegeProjects\ExamCSharpTask\ExamCSharpTask\bin\Debug\System.Numerics.Vectors.dll
+D:\Programming\C#\CollegeProjects\ExamCSharpTask\ExamCSharpTask\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Programming\C#\CollegeProjects\ExamCSharpTask\ExamCSharpTask\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Programming\C#\CollegeProjects\ExamCSharpTask\ExamCSharpTask\bin\Debug\System.Buffers.dll
+D:\Programming\C#\CollegeProjects\ExamCSharpTask\ExamCSharpTask\bin\Debug\Newtonsoft.Json.xml
+D:\Programming\C#\CollegeProjects\ExamCSharpTask\ExamCSharpTask\obj\Debug\ExamCSharpTask.exe.config
+F:\Home Work\MDK 01.03\Exam\ExamCSharpTask\ExamCSharpTask\bin\Debug\ExamCSharpTask.exe.config
+F:\Home Work\MDK 01.03\Exam\ExamCSharpTask\ExamCSharpTask\bin\Debug\ExamCSharpTask.exe
+F:\Home Work\MDK 01.03\Exam\ExamCSharpTask\ExamCSharpTask\bin\Debug\ExamCSharpTask.pdb
+F:\Home Work\MDK 01.03\Exam\ExamCSharpTask\ExamCSharpTask\bin\Debug\Newtonsoft.Json.dll
+F:\Home Work\MDK 01.03\Exam\ExamCSharpTask\ExamCSharpTask\bin\Debug\System.Memory.dll
+F:\Home Work\MDK 01.03\Exam\ExamCSharpTask\ExamCSharpTask\bin\Debug\System.Numerics.Vectors.dll
+F:\Home Work\MDK 01.03\Exam\ExamCSharpTask\ExamCSharpTask\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\Home Work\MDK 01.03\Exam\ExamCSharpTask\ExamCSharpTask\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Home Work\MDK 01.03\Exam\ExamCSharpTask\ExamCSharpTask\bin\Debug\System.Buffers.dll
+F:\Home Work\MDK 01.03\Exam\ExamCSharpTask\ExamCSharpTask\bin\Debug\Newtonsoft.Json.xml
+F:\Home Work\MDK 01.03\Exam\ExamCSharpTask\ExamCSharpTask\obj\Debug\ExamCSharpTask.csproj.AssemblyReference.cache
+F:\Home Work\MDK 01.03\Exam\ExamCSharpTask\ExamCSharpTask\obj\Debug\ExamCSharpTask.csproj.SuggestedBindingRedirects.cache
+F:\Home Work\MDK 01.03\Exam\ExamCSharpTask\ExamCSharpTask\obj\Debug\ExamCSharpTask.exe.config
+F:\Home Work\MDK 01.03\Exam\ExamCSharpTask\ExamCSharpTask\obj\Debug\MainWindow.g.cs
+F:\Home Work\MDK 01.03\Exam\ExamCSharpTask\ExamCSharpTask\obj\Debug\Pages\AddGoodsPage.g.cs
+F:\Home Work\MDK 01.03\Exam\ExamCSharpTask\ExamCSharpTask\obj\Debug\Pages\CategoriesPage.g.cs
+F:\Home Work\MDK 01.03\Exam\ExamCSharpTask\ExamCSharpTask\obj\Debug\Pages\ChooserPage.g.cs
+F:\Home Work\MDK 01.03\Exam\ExamCSharpTask\ExamCSharpTask\obj\Debug\Pages\GoodsPage.g.cs
+F:\Home Work\MDK 01.03\Exam\ExamCSharpTask\ExamCSharpTask\obj\Debug\App.g.cs
+F:\Home Work\MDK 01.03\Exam\ExamCSharpTask\ExamCSharpTask\obj\Debug\ExamCSharpTask_MarkupCompile.cache
+F:\Home Work\MDK 01.03\Exam\ExamCSharpTask\ExamCSharpTask\obj\Debug\ExamCSharpTask_MarkupCompile.lref
+F:\Home Work\MDK 01.03\Exam\ExamCSharpTask\ExamCSharpTask\obj\Debug\App.baml
+F:\Home Work\MDK 01.03\Exam\ExamCSharpTask\ExamCSharpTask\obj\Debug\MainWindow.baml
+F:\Home Work\MDK 01.03\Exam\ExamCSharpTask\ExamCSharpTask\obj\Debug\Pages\AddGoodsPage.baml
+F:\Home Work\MDK 01.03\Exam\ExamCSharpTask\ExamCSharpTask\obj\Debug\Pages\CategoriesPage.baml
+F:\Home Work\MDK 01.03\Exam\ExamCSharpTask\ExamCSharpTask\obj\Debug\Pages\ChooserPage.baml
+F:\Home Work\MDK 01.03\Exam\ExamCSharpTask\ExamCSharpTask\obj\Debug\Pages\GoodsPage.baml
+F:\Home Work\MDK 01.03\Exam\ExamCSharpTask\ExamCSharpTask\obj\Debug\ExamCSharpTask.g.resources
+F:\Home Work\MDK 01.03\Exam\ExamCSharpTask\ExamCSharpTask\obj\Debug\ExamCSharpTask.Properties.Resources.resources
+F:\Home Work\MDK 01.03\Exam\ExamCSharpTask\ExamCSharpTask\obj\Debug\ExamCSharpTask.csproj.GenerateResource.cache
+F:\Home Work\MDK 01.03\Exam\ExamCSharpTask\ExamCSharpTask\obj\Debug\ExamCSharpTask.csproj.CoreCompileInputs.cache
+F:\Home Work\MDK 01.03\Exam\ExamCSharpTask\ExamCSharpTask\obj\Debug\ExamCSharpTask.csproj.CopyComplete
+F:\Home Work\MDK 01.03\Exam\ExamCSharpTask\ExamCSharpTask\obj\Debug\ExamCSharpTask.exe
+F:\Home Work\MDK 01.03\Exam\ExamCSharpTask\ExamCSharpTask\obj\Debug\ExamCSharpTask.pdb
